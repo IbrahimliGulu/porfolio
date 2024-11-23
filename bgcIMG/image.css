@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section1{
+    height: 100vh;
+    background-image: url("https://i.pinimg.com/736x/bf/31/5b/bf315ba0997042f2a036be73c828783a.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    /* flex-direction: column; */
+    align-items: center; 
+    /* padding: 100px 0px; */
+
+}
+.section2{
+    height: 100vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJnsdtl0dYmIb8TZmEVxDEKO7AdczJQQSlQ&s");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color: yellow;
+}
+.footer2{
+    padding-right: 300px;
+
+}
+.text{
+    width: 50%;
+    padding: 100px 0px;
+ 
+}
+

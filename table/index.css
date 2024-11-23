@@ -35,8 +35,13 @@ th{
 }
 
 tr{
-    border-bottom: 2px solid black;
+    border-bottom: 1px solid black;
 }
 .text1{
     padding: 10;
+}
+
+.hoverTr{
+    background-color: beige;
+    cursor: pointer;
 }
